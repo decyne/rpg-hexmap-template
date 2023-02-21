@@ -1,0 +1,10 @@
+---
+hex: 
+  name: Middle Bridge
+  description:
+    - Two cart wide stone bridge, charred and crumbing but still standing
+    - \textbf{two trolls} standing guard, demanding toll of \textbf{2c} each to cross. Easily confused
+  hidden: 
+    - Underneath bridge on west side, \textbf{troll encampment}. 1d6 trolls sleeping and dangling a gagged halfling over boiling pot.
+    - Cave crudely excavated into western bridge wall. contains \textbf{100c} and a \textbf{keg of dwarvern ale} (bravery for 24 hours).
+  

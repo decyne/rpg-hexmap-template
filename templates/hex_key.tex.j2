@@ -1,0 +1,18 @@
+\#{Start the hex key}
+\subsection{\VAR{hex['name']}}
+\#{This is a long-form Jinja comment}
+\begin{itemize}
+\#{Print all description lines}
+\BLOCK{ for line in hex['description'] }
+  \item \VAR{line}
+\BLOCK{ endfor }
+\end{itemize}
+\#{Print hidden lines if they were defined}
+\BLOCK{ if 'hidden' in hex }
+\textit{Hidden}
+\begin{itemize}
+\BLOCK{ for line in hex['hidden'] }
+  \item \VAR{line}
+\BLOCK{ endfor }
+\end{itemize}
+\BLOCK{endif}

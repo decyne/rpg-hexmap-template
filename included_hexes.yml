@@ -1,0 +1,8 @@
+# List of hexes that will be included in adventure
+# They will appear and be keyed in the order of this file
+# They must match the name of the file in the hexes directory
+---
+included_hexes:
+  - middlebridge.yml
+  - camelot.yml
+  - fields.yml

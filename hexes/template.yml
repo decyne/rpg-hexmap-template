@@ -1,0 +1,11 @@
+# A sample hex key/description file template
+---
+hex: 
+  name: Hex Title
+  description:
+    - Some descriptive bullet points
+    - Additional descriptions
+      - More detail
+  hidden: 
+    - Something only found by searching or further investigation
+  
